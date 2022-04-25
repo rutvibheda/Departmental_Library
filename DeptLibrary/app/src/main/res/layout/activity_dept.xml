@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Dept"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:gravity="center"
+    android:background="@drawable/b1">
+    <Button
+        android:id="@+id/bt_operation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Insert"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/round_button"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+    <Button
+        android:id="@+id/bt_deloperation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Delete"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/round_button"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+    <Button
+        android:id="@+id/bt_updoperation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="update"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/round_button"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+
+
+
+    <Button
+        android:id="@+id/bt_view"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="VIEW BOOKS"
+        android:textStyle="bold"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/round_button"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+
+
+</LinearLayout>

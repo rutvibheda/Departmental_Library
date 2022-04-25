@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Departmental Library</string>
+    <string name="role">Role</string>
+    <string-array name="role">
+        <item>Select</item>
+        <item>Admin</item>
+        <item>Staff</item>
+        <item>Students</item>
+    </string-array>
+
+    <string name="dno">Dno</string>
+    <string-array name="dno">
+        <item>Select</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+
+    <string name="dname">Dname</string>
+    <string-array name="dname">
+        <item>Select</item>
+        <item>Programming</item>
+        <item>System Programming</item>
+        <item>Database Design</item>
+        <item>Network</item>
+        <item>Electronics and applications</item>
+        <item>Artificial Intelligence</item>
+        <item>Software Engineering</item>
+    </string-array>
+
+
+</resources>
